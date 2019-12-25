@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <DockerComposeProjectPath>../docker-compose.dcproj</DockerComposeProjectPath>
+    <UserSecretsId>b9f3348b-701b-486b-bee9-1dc2b874fdb9</UserSecretsId>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+  </ItemGroup>
+
+</Project>
